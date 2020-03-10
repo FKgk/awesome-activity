@@ -14,7 +14,7 @@ Awesome 이라는 이름으로 [개발 블로그](https://github.com/sarojaba/aw
 
 
 ## 정보 수집
-- [IT 행사 알리미](https://open.kakao.com/o/gFRoO2B)에서 많은 사람들이 행사 정보를 주고 받고 있다.
+- [IT 행사 알리미](https://open.kakao.com/o/gFRoO2B)에서 많은 사람들이 행사 정보를 주고 받고 있다. (검색해보면 2, 3도 나온다)
 - [festa](https://festa.io/) 대부분 IT 관련 행사들이 등록된다.
 - [온오프믹스](https://onoffmix.com/) 다양한 행사들이 등록되어 IT 관련 행사만 찾는 것은 조금 어렵다
 - [이벤터스](https://event-us.kr/) 다양한 행사들이 등록되지만, 과학/기술 분야로 쉽게 찾을 수 있다.
