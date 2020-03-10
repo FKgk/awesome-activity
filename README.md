@@ -11,6 +11,7 @@ Awesome 이라는 이름으로 [개발 블로그](https://github.com/sarojaba/aw
 ### [교육](https://github.com/FKgk/awesome-activity/blob/master/%EA%B5%90%EC%9C%A1.md)
 ### [동아리](https://github.com/FKgk/awesome-activity/blob/master/%EB%8F%99%EC%95%84%EB%A6%AC.md)
 ### [대회](https://github.com/FKgk/awesome-activity/blob/master/%EB%8C%80%ED%9A%8C.md)
+### [행사](https://github.com/FKgk/awesome-activity/blob/master/%ED%96%89%EC%82%AC.md)
 
 
 ## 정보 수집
